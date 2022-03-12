@@ -8,7 +8,7 @@ This repository contains mechanisms for making a virtual reality applications fo
 * Teleportation
 	* Locomotion Area
 	* Locomotion Anchor
-* Continous Movement
+* Continuous Movement
 * VR Hand Controls
 * VR Hand Interaction
 
