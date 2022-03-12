@@ -1,4 +1,5 @@
-<h1> <center> Unity XR Toolkit VR Mechanisms</center></h1>
+# Unity XR Toolkit VR Mechanisms {style=text-align:center}
+
 This repository contains mechanisms for making a virtual reality applications for free.
 
 ### 🛠️ Mechanisms(Currently Implemented)
