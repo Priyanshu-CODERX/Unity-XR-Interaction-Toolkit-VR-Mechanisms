@@ -1,4 +1,4 @@
-# Unity XR Interaction Toolkit VR Mechanisms
+<h1 align="center">Unity XR Interaction Toolkit VR Mechanisms</h1>
 
 This repository contains implementation of various basic virtual reality mechanisms which one can use in their project.
 
