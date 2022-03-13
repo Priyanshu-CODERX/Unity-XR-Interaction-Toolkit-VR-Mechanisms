@@ -17,6 +17,9 @@ This repository contains implementation of various basic virtual reality mechani
 * Continuous Movement
 * VR Hand Controls
 * VR Hand Interaction
+* Socket Interactor
+	* Snap Interaction
+	* Selectable Snap Interaction
 
 Currently I am working on adding more mechanisms that can help someone during the development of their virtual reality applications/games.
 
