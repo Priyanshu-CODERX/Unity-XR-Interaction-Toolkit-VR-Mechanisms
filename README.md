@@ -2,7 +2,7 @@
 
 This repository contains implementation of various basic virtual reality mechanisms which one can use in their project.
 
-<div style="width:100%; display:flex; flex-wrap:wrap; align-items:center; justify-content:center"}>
+<div align="center" display:flex; flex-wrap:wrap; align-items:center; justify-content:center"}>
 <img style="margin:5px;" src="https://i.ibb.co/8KDNGPC/Screenshot-98.png" width="300px" ></img>
 <img style="margin:5px;" src="https://i.ibb.co/HCjZJvJ/Screenshot-99.png" width="300px" ></img>
 <img style="margin:5px;" src="https://i.ibb.co/6R0R0XX/Screenshot-102.png" width="300px" ></img>
