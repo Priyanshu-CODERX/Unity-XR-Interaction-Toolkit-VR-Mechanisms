@@ -28,7 +28,7 @@ This repository contains implementation of various basic virtual reality mechani
 * 3D Physics based Button Interaction
 
 ### 🛠️ Known Issues
-None as of now
+* None as of now
 
 Currently I am working on adding more mechanisms that can help someone during the development of their virtual reality applications/games.
 
