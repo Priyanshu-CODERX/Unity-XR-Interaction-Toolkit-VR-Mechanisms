@@ -9,7 +9,9 @@ This repository contains implementation of various basic virtual reality mechani
 <img style="margin:5px;" src="https://i.ibb.co/R3hX43n/Screenshot-103.png" width="300px" ></img>
 </div>
 
-<img align="center" style="margin:5px" src="https://i.ibb.co/NjLgZq5/ezgif-com-gif-maker.gif" ></img>
+<div align="center" display:flex; flex-wrap:wrap; align-items:center; justify-content:center"}>
+<img style="margin:5px" src="https://i.ibb.co/NjLgZq5/ezgif-com-gif-maker.gif" ></img>
+</div>
 
 ### 🛠️ Mechanisms(Currently Implemented)
 * Grabbing Mechanism
