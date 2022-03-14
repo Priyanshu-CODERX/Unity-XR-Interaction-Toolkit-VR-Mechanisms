@@ -21,10 +21,10 @@ This repository contains implementation of various basic virtual reality mechani
 	* Snap Interaction
 	* Selectable Snap Interaction
 * UI Interaction
-* 3D Physics Button Interaction
+* 3D Physics based Button Interaction
 
 ### 🛠️ Known Issues
-* 3D Physics button is only registering press not release and also the press is being registered for only 1 time.
+None as of now
 
 Currently I am working on adding more mechanisms that can help someone during the development of their virtual reality applications/games.
 
